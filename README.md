@@ -1,1 +1,1 @@
-# This repository is about visualizing Bubble sort in Python.
+# This repository is about visualizing Bubble sort in Python, using matplotlib.
